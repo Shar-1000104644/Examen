@@ -72,8 +72,42 @@ ul{
 .frase h5{
 	margin: 50px 5px;
 }
+.frase a{
+	color:#FF0040;
+}
 .pie{
 	background:#2E2E2E;
 	padding: 0 200px;
-
+	color:#fff;
 }
+.pie a{
+		color:#FF0040;
+}
+.pie h5{
+	padding:20px 0px;
+}
+.uno{
+	margin: 20px 0;
+}
+.uno i{
+	border:1px dashed #fff;
+	border-radius: 30px;
+	color:#fff;
+	font-size: 20px;
+	padding: 5px;
+	width: 30px;
+	text-align: center;
+}
+.uno p {
+	text-align: center;
+}
+.dos, .tres p{
+	font-size: 12px;
+	padding: 20px 0;
+}
+.tres{
+	text-align: center;
+}
+
+
+
