@@ -1,0 +1,79 @@
+/*ENCABEZADO*/
+.encabezado{
+	background:#2E2E2E;
+	padding: 0 200px;
+	color:#fff;
+}
+ul{
+	list-style:none;
+}			
+.menu > li {
+	float:right;
+	margin:5px;
+}		
+.menu li a {
+	text-decoration:none;
+	padding:10px 5px;
+	display:block;
+	color: #fff;
+}			
+.menu li a:hover {
+	color: #FF0040;
+}			
+.menu li ul {
+	display:none;
+	position:absolute;
+	width:140px;
+}			
+/*FIN DE ENCABEZADO*/			
+/* EMPIEZA CUERPO*/
+.cuerpo{
+	padding: 0 200px;
+	background: #fff;
+}
+.edificio{
+	padding: 5px;
+}
+.edificio img{
+	height: 350px;
+	width: 460px;
+}
+.edificio button{
+	margin:15px 0;
+	border-radius: 20px;
+	width: 100px;
+	height: 20px;
+}
+.galeria{
+	text-align: center;
+}
+.galeria li{
+	display: inline-block;
+	width: 320px;
+	margin: 10px 5px;
+	text-align: justify;
+}
+.galeria img{
+	height: 130px;
+	width: 100%;
+}
+.galeria-bot button{
+	height: 20px;
+	width: 100px;
+	margin: 20px 300px;
+	border-radius: 20px;
+}
+.frase i{
+	font-size: 100px;
+}
+.frase button{
+	margin: 10px 20px;
+}
+.frase h5{
+	margin: 50px 5px;
+}
+.pie{
+	background:#2E2E2E;
+	padding: 0 200px;
+
+}
